@@ -6,13 +6,13 @@
 
 ### 프로젝트 구성
 
-![image-20191004163842185](/Users/soyoung/Library/Application Support/typora-user-images/image-20191004163842185.png)
-
+<img src="https://blogfiles.pstatic.net/MjAxOTEwMDRfMTUz/MDAxNTcwMTc2NTU4MzM3.6nUe2kL7zBeFoAwLKUcK-fgrIhJeho09mD0sWiaDff0g.XFG8J1vhj3IuU5Scnz9bYOw4r6qf9YpmsE5gV_pQg-Ag.PNG.sy_0831/image-20191004163842185.png?type=w1" width="70%">
 
 
 ### 사이트 맵
 
-![image-20191004163947705](/Users/soyoung/Library/Application Support/typora-user-images/image-20191004163947705.png)
+<img src="https://blogfiles.pstatic.net/MjAxOTEwMDRfMTAg/MDAxNTcwMTc2NTU4NTk0.yDv5wgsDHHNfDrH-O-lu6gukdpVpwL1G_LB9Fw5uf-0g.WSPlBZdUop4pA6nTojXL7ddaJp-kLg1Ta8T8V4wvJgcg.PNG.sy_0831/image-20191004163947705.png?type=w1" width="70%">
+
 
 | Header-Footer                                                | Home                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
